@@ -1,5 +1,6 @@
 {
   "name": "FlightReviews",
   "private": true,
+  "description": "Flight Review Website",
   "dependencies": {}
 }
