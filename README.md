@@ -1,7 +1,7 @@
 
 # [FlightReviews]
 
-FlightReviews is a YouTube Clone where all your dreams can come true through media. FlightReviews is an online video sharing platform where users are able to upload, watch, comment and like videos.
+FlightReviews is a Flight review website where all your thoughts can come out anonymously. FlightReviews is a website where users are able to review certain flights and comment/search/vote on reviews.
 
 * Technologies
 
