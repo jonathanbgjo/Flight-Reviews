@@ -15,3 +15,22 @@ henry = User.create!(username: 'Hermin Isotop', email: "henry@henry.com", passwo
 paul = User.create!(username: 'Paulyatpus', email: "paul@paul.com", password: 'password')
 rayden = User.create!(username: 'Ray DiggyDog', email: "rayden@rayden.com", password: 'password')
 celine = User.create!(username: 'Moon Smitten', email: "moonsmitten@smitten.com", password: 'password')
+
+
+Flight1 = Flight.create!({
+    uploader_id: cedric.id,
+    title: "Isn't she lovely",
+    review: "Clara c + Jayesslee",
+})
+
+Flight2 = Flight.create!({
+    uploader_id: henry.id,
+    title: "Brad Leone makes butter",
+    review: "Bon Appetit Brad Leona makes butter on it's alive!",
+})
+
+Flight3 = Flight.create!({
+    uploader_id: celine.id,
+    title: "How to start a movie",
+    review: "Film essay on how to start a movie by Closer Look",
+})
